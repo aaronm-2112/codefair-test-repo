@@ -1,0 +1,15 @@
+title: codefair-test-repo
+authors:
+  - given-names: Aaron
+    family-names: M
+    affiliation: California Medical Innovations Institute
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: "A repo for testing codefair "
+keywords:
+  - har
+license: MIT
+repository-code: https://github.com/aaronm-2112/codefair-test-repo
+version: 0.0.1
+date-released: 2024-07-01
