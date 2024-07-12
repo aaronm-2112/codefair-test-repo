@@ -1,0 +1,38 @@
+{
+  "name": "codefair-test-repo",
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "California Medical Innovations Institute",
+        "type": "Organization"
+      },
+      "familyName": "M",
+      "id": "_:author_1",
+      "givenName": "Aaron",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/aaronm-2112/codefair-test-repo",
+  "dateCreated": "2024-07-12",
+  "dateModified": "2024-07-01",
+  "datePublished": "2024-07-15",
+  "description": "A repo for testing codefair ",
+  "developmentStatus": "concept",
+  "issueTracker": "https://github.com/aaronm-2112/codefair-test-repo/issues",
+  "keywords": [
+    "har"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "operatingSystem": [
+    "Catalina (macOS 10.15)"
+  ],
+  "programmingLanguage": [
+    "JavaScript"
+  ],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "version": "0.0.1",
+  "type": "SoftwareSourceCode"
+}
